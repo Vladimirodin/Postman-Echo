@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/qocuwvbogdn05f8u?svg=true)](https://ci.appveyor.com/project/Vladimirodin/api-ci)
+[![Build status](https://ci.appveyor.com/api/projects/status/59fyj6hrr8yf3go1?svg=true)](https://ci.appveyor.com/project/Vladimirodin/postman-echo)
